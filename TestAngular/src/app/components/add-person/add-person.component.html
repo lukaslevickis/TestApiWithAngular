@@ -1,0 +1,19 @@
+<form [formGroup]="personForm" (ngSubmit)="onSubmit()">
+
+    <div>
+      <label for="name">
+        Name
+      </label>
+      <input id="name" type="text" formControlName="name">
+    </div>
+  
+    <div>
+      <label for="surname">
+        Address
+      </label>
+      <input id="surname" type="text" formControlName="surname">
+    </div>
+  
+    <button class="button" type="submit">Add</button>
+  
+  </form>

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FB557781-AF4E-49F2-991B-2842523EFB26}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAPI/Controllers/PersonController.cs">
+    <Files>
+      <File FileName="TestAPI/Controllers/PersonController.cs" Line="11" Column="7" />
+      <File FileName="TestAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="TestAPI/Startup.cs" Line="56" Column="1" />
+      <File FileName="TestAPI/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAPI" expanded="True">
+            <Node name="TestAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PersonController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
